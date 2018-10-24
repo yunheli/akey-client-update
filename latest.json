@@ -6,7 +6,7 @@
     ]
   },
 
-  "market": {
+  "markets": {
     "ios_default": {
       "force": true,
       "url": "http://xxx/ios/default",
