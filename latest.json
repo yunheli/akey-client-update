@@ -18,18 +18,18 @@
       "version": "1.2.3"
     },
     "android_default": {
-      "force": true,
-      "url": "http://xxx/android/default",
+      "force": false,
+      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
       "version": "1.2.3"
     },
     "android_xiaomi": {
-      "force": true,
-      "url": "http://xxx/android/xiaomi",
+      "force": false,
+      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
       "version": "1.2.3"
     },
     "android_huawei": {
-      "force": true,
-      "url": "http://xxx/android/huawei",
+      "force": false,
+      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
       "version": "1.2.3"
     }
   }
