@@ -1,8 +1,10 @@
 {
   "logs": {
     "1.2.3": [
-      "您好，我是晓将",
-      "您好，这是魏丽改的"
+      "Android线下测试包： 
+       1.扫描指定币种二维码付款时不可以更改地址
+       2.修复付款页扫描只含地址的二维码不能正常填充地址
+       希望大家有时间多多测试，有bug可以提交到trello"
     ]
   },
 
@@ -10,27 +12,27 @@
     "ios_default": {
       "force": false,
       "url": "http://xxx/ios/default",
-      "version": "1.2.5"
+      "version": "1.2.3"
     },
     "ios_enterprise": {
-      "force": false,
-      "url": "http://akeywlattet.com",
-      "version": "1.2.5"
+      "force": true,
+      "url": "https://fir.im/akeyTest",
+      "version": "1.2.3"
     },
     "android_default": {
-      "force": true,
-      "url": "http://akeywlattet.com",
-      "version": "1.2.5"
+      "force": false,
+      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
+      "version": "1.2.3"
     },
     "android_xiaomi": {
-      "force": true,
-      "url": "http://akeywlattet.com",
-      "version": "1.2.5"
+      "force": false,
+      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
+      "version": "1.2.3"
     },
     "android_huawei": {
-      "force": true,
-      "url": "http://akeywlattet.com",
-      "version": "1.2.5"
+      "force": false,
+      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
+      "version": "1.2.3"
     }
   }
 }
