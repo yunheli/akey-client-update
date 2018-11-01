@@ -10,27 +10,27 @@
     "ios_default": {
       "force": false,
       "url": "http://xxx/ios/default",
-      "version": "1.2.3"
+      "version": "1.2.5"
     },
     "ios_enterprise": {
-      "force": true,
-      "url": "http://xxx/ios/enterprise",
-      "version": "1.2.3"
+      "force": false,
+      "url": "http://akeywlattet.com",
+      "version": "1.2.5"
     },
     "android_default": {
-      "force": false,
-      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
-      "version": "1.2.3"
+      "force": true,
+      "url": "http://akeywlattet.com",
+      "version": "1.2.5"
     },
     "android_xiaomi": {
-      "force": false,
-      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
-      "version": "1.2.3"
+      "force": true,
+      "url": "http://akeywlattet.com",
+      "version": "1.2.5"
     },
     "android_huawei": {
-      "force": false,
-      "url": "https://download.fir.im/apps/5b96514f959d69134794334a/install?download_token=e5d15d8377eb39f39bc61d2d785ecdb1",
-      "version": "1.2.3"
+      "force": true,
+      "url": "http://akeywlattet.com",
+      "version": "1.2.5"
     }
   }
 }
